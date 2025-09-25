@@ -1,0 +1,11 @@
+{
+  "name": "chatgpt-connector-gateway",
+  "version": "1.0.0",
+  "description": "API Gateway to give ChatGPT arms and legs",
+  "main": "api/gateway.js",
+  "scripts": {
+    "dev": "vercel dev"
+  },
+  "author": "Paul Main",
+  "license": "MIT"
+}
